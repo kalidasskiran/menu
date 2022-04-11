@@ -1,0 +1,23 @@
+[
+    {
+        "id": "c98nuntvqc7hd98p2cc0",
+        "name": "Butter chicken",
+        "description": "mild chicken curry",
+        "cost": "10$",
+        "timeofentry": "2022-04-09T18:13:11.94427+05:30"
+    },
+    {
+        "id": "c98nuqtvqc7hd98p2ccg",
+        "name": "Palak Paneer",
+        "description": "mild cottage cheese curry 1",
+        "cost": "11$",
+        "timeofentry": "2022-04-09T18:13:23.416358+05:30"
+    },
+    {
+        "id": "c98nuttvqc7hd98p2cd0",
+        "name": "honey garlic chicken",
+        "description": "honey with garlic chicken",
+        "cost": "12$",
+        "timeofentry": "2022-04-09T18:13:35.134264+05:30"
+    }
+]
